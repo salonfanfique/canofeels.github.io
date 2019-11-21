@@ -8,7 +8,7 @@ body{
 	margin-right: auto;
 }
 #header{
-	background-color: #FFAAED;
+	background-color: #FFF0F0;
 	color : white;
 	text-align: center;
 }
