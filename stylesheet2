@@ -1,6 +1,6 @@
 body{
 	background-color: #EEEEEE;
-	font-family: Helvetica, Arial, sans-serif;
+	font-family: Avantgarde, Arial, sans-serif;
 }
 .a{
 	text-decoration: none;
