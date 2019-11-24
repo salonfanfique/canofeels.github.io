@@ -54,9 +54,9 @@ h1,h2,h3{
   border-left: 1px solid #CCCCCC;
 }
 #bannerimage {
-  width: 100%;
+  width: 1200px;
   background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTWhX_qeteuXEMT8URA-MOElG7FPUxS8BClHlis0XtMDnKHifro);
   height: 405px;
-  background-color: purple;
+  background-color: grey;
   background-position: center;
 }
