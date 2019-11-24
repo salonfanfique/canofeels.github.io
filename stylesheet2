@@ -54,7 +54,7 @@ h1,h2,h3{
   border-left: 1px solid #CCCCCC;
 }
 #bannerimage {
-  width: 100%;
+  width: 1200px;
   background-image: url(https://cdn.discordapp.com/attachments/645436411872280589/648286030482374656/fanfique_02.png);
   height: 405px;
   background-color: grey;
